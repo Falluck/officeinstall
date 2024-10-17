@@ -1,2 +1,7 @@
-# officeinstall
+# Office Install
 A fast and small batch script to automatically install the latest version of Office LTSC Professional Plus 2024
+
+## Included
+Word, PowerPoint, Excel, OneNote, Publisher and Access
+
+![office](https://github.com/user-attachments/assets/b71ab52d-f92f-4787-b46b-020a7f602f14)

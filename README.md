@@ -5,3 +5,6 @@ A fast and small batch script to automatically install the latest version of Off
 Word, PowerPoint, Excel, OneNote, Publisher and Access
 
 ![office](https://github.com/user-attachments/assets/b71ab52d-f92f-4787-b46b-020a7f602f14)
+
+## Language
+To change the language, edit `<Language ID="en-us" />` at `files/ODTConfig.xml `

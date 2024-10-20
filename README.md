@@ -9,7 +9,7 @@ Word, PowerPoint, Excel, OneNote, Publisher and Access
 ## Language
 To change the language, edit `<Language ID="en-us" />` at `files/ODTConfig.xml `
 
-Exemple:
+Examples:
 
 ![spanish](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png) `<Language ID="es-es" />`
 

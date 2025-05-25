@@ -41,5 +41,5 @@ timeout /t 3
 goto :EOF
 
 :error
-echo Erreur #%errorlevel%
+echo Error #%errorlevel%
 exit /b %errorlevel%

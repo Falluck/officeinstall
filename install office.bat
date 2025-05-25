@@ -27,7 +27,7 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 
 echo Extracting setup...
-files\officedeploymenttool_18324-20194.exe /extract:%temp%/office-install/ || goto :error
+files\officedeploymenttool_18730-20142.exe /extract:%temp%/office-install/ || goto :error
 echo Copying the configuration file...
 xcopy files\ODTConfig.xml %temp%\office-install\ || goto :error
 cd %temp%\office-install\ || goto :error

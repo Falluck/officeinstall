@@ -8,7 +8,7 @@
 )
 
 if '%errorlevel%' NEQ '0' (
-    echo Requesting administrative privileges...
+    echo Demande de privilèges admin...
     goto UACPrompt
 ) else ( goto gotAdmin )
 

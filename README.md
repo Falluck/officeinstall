@@ -1,16 +1,16 @@
 # Office Install
-A fast and small batch script to automatically install the latest version of Office LTSC Professional Plus 2024
+Un petit script rapide pour installer automatiquement la dernière version d'Office LTSC Professional Plus 2024
 
-## Included
-Word, PowerPoint, Excel, OneNote, Publisher and Access
+## Inclus
+Word, PowerPoint, Excel, OneNote, Publisher et Access
 
 ![office](https://github.com/user-attachments/assets/b71ab52d-f92f-4787-b46b-020a7f602f14)
 
-## Language
-To change the language, edit `<Language ID="en-us" />` at `files/ODTConfig.xml`
+## Langue
+Pour changer la langue, modifiez `<Language ID="fr-fr" />` dans `files/ODTConfig.xml`
 
 Exemples:
 
 ![spanish](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png) `<Language ID="es-es" />`
 
-![french](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png) `<Language ID="fr-fr" />`
+![french](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) `<Language ID="en-us" />`

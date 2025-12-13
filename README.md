@@ -1,5 +1,5 @@
 # Office Install
-A fast and small batch script to automatically install the latest version of Office LTSC Professional Plus 2024
+A fast and small batch script to automatically install an up-to-date & non-activated copy of Office LTSC Professional Plus 2024
 
 ## Included
 Word, PowerPoint, Excel, OneNote, Publisher and Access

@@ -1,5 +1,5 @@
 # Office Install
-A fast and small batch script to automatically install an up-to-date & non-activated copy of Microsoft 365 for business (no Teams)
+A fast and small batch script to automatically install an up-to-date & non-activated copy of Microsoft 365 for business (no Teams).
 
 ![office](https://github.com/user-attachments/assets/b71ab52d-f92f-4787-b46b-020a7f602f14)
 
@@ -10,13 +10,13 @@ A fast and small batch script to automatically install an up-to-date & non-activ
 > You can replace the installer with an up-to-date one from [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117), the script will dynamically select the latest installer in the files\ directory.
 
 ## Included
-Word, PowerPoint, Excel, OneNote, Publisher and Access
+Word, PowerPoint, Excel, OneNote, Publisher and Access.
 
 ## Excluded
-Teams, Lync, OneDrive and Outlook
+Teams, Lync, OneDrive and Outlook.
 
 ## Language
-To change the language, edit both `<Language ID="en-us" />` at `files/ODTConfig.xml`
+To change the language, edit both `<Language ID="en-us" />` in the `files/Configuration.xml` file.
 
 Examples:
 

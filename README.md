@@ -7,7 +7,7 @@ A fast and small batch script to automatically install an up-to-date & non-activ
 > You need an Internet connection to use this script!
 
 > [!TIP]
-> You can replace the installer with an up-to-date one from [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117), the script will dynamically select the latest.
+> You can replace the installer with an up-to-date one from [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117), the script will dynamically select the latest installer in the files\ directory.
 
 ## Included
 Word, PowerPoint, Excel, OneNote, Publisher and Access
